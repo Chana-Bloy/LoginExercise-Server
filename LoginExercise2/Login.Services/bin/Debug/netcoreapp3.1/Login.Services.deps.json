@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Login.Services/1.0.0": {
+        "dependencies": {
+          "Login.Core": "1.0.0"
+        },
+        "runtime": {
+          "Login.Services.dll": {}
+        }
+      },
+      "Login.Core/1.0.0": {
+        "runtime": {
+          "Login.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Login.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Login.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
